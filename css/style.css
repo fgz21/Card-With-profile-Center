@@ -1,0 +1,40 @@
+
+body{
+	padding: 0;
+	margin: 0;
+	background: hsl(185, 75%, 39%);
+}
+
+.profile{
+	border-radius: 10px;
+
+}
+
+.container {
+    height: 100vh;
+
+}
+
+.card {
+    background-color: #fff;
+ 	border-radius: 20px;
+ 	width: 28%;
+
+}
+
+
+.profile img {
+	position: relative;
+    border-radius: 50%;
+}
+
+img{
+	border-radius: 15px;
+
+
+}
+
+.stats span {
+    font-size: 18px;
+    padding: 15px;
+}
